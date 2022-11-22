@@ -1,0 +1,2 @@
+# SynthText-Russian
+SynthText Russian
